@@ -13,7 +13,7 @@
 2. Launch development server, and open `localhost:4200` in your browser:
  ```bash
  npm start
-
+ ```
 
 # Preview
 [Vercel](https://moveit-next-dd0phjdxp-nelsoncastro.vercel.app/)
